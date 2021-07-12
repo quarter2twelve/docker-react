@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          What's so funny about peace, love, and understanding  
+          Everything means less than zero.  
         </p>
         <a
           className="App-link"
