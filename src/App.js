@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Everything means less than zero.  
+          How does it feel... with no direction home?  Like a Rollin' Stone.    
         </p>
         <a
           className="App-link"
