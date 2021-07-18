@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          How does it feel... with no direction home?  Like a Rollin' Stone.    
+          When you listen to music and after it's over, it's gone in the air. 
+          <br>You can never capture it again.</br>
         </p>
         <a
           className="App-link"
